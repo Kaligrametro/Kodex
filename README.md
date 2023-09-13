@@ -5,3 +5,7 @@
 - Con randomizador obviamente
   - Manchas randomizadas
   - Color de manchas variante con randomizador
+ 
+### Raytracing c++
+- OpenGL
+- Simple 3D objects
