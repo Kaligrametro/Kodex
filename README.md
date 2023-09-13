@@ -1,6 +1,6 @@
 # Kodex: Idea imporium
 
-### Rendering by ink splatters
+### Rendering by ink splatters (Gouache)
 - No renderizar poligonalmente, sino como se pinta al oleo, manchas repetidas y de diversos colores que dan profundidad y balance al objeto renderizado
 - Con randomizador obviamente
   - Manchas randomizadas
